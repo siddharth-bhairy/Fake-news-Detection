@@ -42,3 +42,8 @@ The project uses Logistic Regression from scikit-learn for classification.
 The dataset is split into training (80%) and testing (20%) sets.
 Evaluation
 The model is evaluated using accuracy score on both the training and testing data.
+
+
+Dataset:
+You can get the dataset from the given link : ## Large CSV File
+You can download the dataset from [Google Drive](https://drive.google.com/file/d/1ZrupyPgH0ib6MnbsdCOHGt22WO93CO9u/view?usp=drive_link).
